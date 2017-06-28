@@ -1,0 +1,7 @@
+[
+    {
+        "command": "c++ -c -std=c++11 -o syscallinjecter.o syscallinjecter.cpp", 
+        "directory": "/home/bloodstalker/devi/abbatoir/hole13", 
+        "file": "/home/bloodstalker/devi/abbatoir/hole13/syscallinjecter.cpp"
+    }
+]
